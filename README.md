@@ -68,6 +68,7 @@ address: http://localhost:8081/
 mentions: due to the program not completed, you need use Moesif Origin & CORS Changer for show the sampleData
 
 ## Screenshot
+![image](https://github.com/mwneko/go_vue_pack/master/screenshot.jpg)
 
 
 ## Question
