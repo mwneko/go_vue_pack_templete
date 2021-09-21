@@ -4,7 +4,7 @@ This is a SPA based on Vue.js and Golang with sample data
 # Structure
 ![image](https://github.com/mwneko/go_vue_pack/blob/master/struct.png)
 
-# The ideal file structure（early design）
+# The ideal file structure（early design）  
 # Project
 ## Frontend（Vue.js）
 ### Src
